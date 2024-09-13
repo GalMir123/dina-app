@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/dina-app/static/css/main.a4858c2e.css",
-    "main.js": "/dina-app/static/js/main.13e75ea3.js",
+    "main.js": "/dina-app/static/js/main.80353971.js",
     "static/js/453.f62e4210.chunk.js": "/dina-app/static/js/453.f62e4210.chunk.js",
     "static/media/WhatsAppIcon.svg": "/dina-app/static/media/WhatsAppIcon.6181e5cecd1a682846ba3e623621a869.svg",
     "index.html": "/dina-app/index.html",
     "main.a4858c2e.css.map": "/dina-app/static/css/main.a4858c2e.css.map",
-    "main.13e75ea3.js.map": "/dina-app/static/js/main.13e75ea3.js.map",
+    "main.80353971.js.map": "/dina-app/static/js/main.80353971.js.map",
     "453.f62e4210.chunk.js.map": "/dina-app/static/js/453.f62e4210.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4858c2e.css",
-    "static/js/main.13e75ea3.js"
+    "static/js/main.80353971.js"
   ]
 }
