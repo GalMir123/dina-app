@@ -1,8 +1,12 @@
-import React from "react";
+import React, { useEffect } from "react";
 import styles from "./About.module.css";
 import Contact from "./Contact";
 import imgSrc from "../dina-img.jpeg";
+
 export default function About() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div className={styles.container}>
       <h2>:קצת עליי </h2>
@@ -23,8 +27,8 @@ export default function About() {
         אתכן לבוא וללמוד, לעבור תהליך מעצים לקראת הלידה שייתן לכם כלים לחיים
         עצמם
       </p>
-      <p></p>
-      <Contact />
+
+      <Contact stylee="main" />
     </div>
   );
 }

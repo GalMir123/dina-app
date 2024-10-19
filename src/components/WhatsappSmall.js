@@ -13,7 +13,7 @@ const WhatsappSmall = () => {
 
   return (
     <div className={styles.container}>
-      <img src={whatsAppIcon} onClick={sendMessage} />
+      <img alt="" src={whatsAppIcon} onClick={sendMessage} />
     </div>
   );
 };

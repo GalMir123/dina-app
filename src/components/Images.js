@@ -3,7 +3,7 @@ import recommendationImgSrc from "../recommendation-1.jpg";
 export default function Images() {
   return (
     <div className={styles.container}>
-      <img src={recommendationImgSrc} />
+      <img alt="" src={recommendationImgSrc} />
     </div>
   );
 }

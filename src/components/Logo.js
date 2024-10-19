@@ -4,7 +4,7 @@ import logo from "../dina-logo.png";
 export default function Logo() {
   return (
     <Link to="/">
-      <img className={styles.container} src={logo} />
+      <img alt="" className={styles.container} src={logo} />
     </Link>
   );
 }

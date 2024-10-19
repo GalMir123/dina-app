@@ -5,7 +5,7 @@
 
 .container p {
   text-align: right;
-  max-width: 44vw;
+  max-width: 46vw;
   font-size: 1.3vw;
   margin: 0 auto;
   padding: 10px;
@@ -13,8 +13,8 @@
 
 @media (max-width: 1250px) {
   .container p {
-    font-size: 5vw;
-    max-width: 80vw;
+    font-size: 4vw;
+    max-width: 72vw;
   }
 
   .container img {

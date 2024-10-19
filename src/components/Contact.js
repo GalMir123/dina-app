@@ -3,10 +3,17 @@ import emailjs from "@emailjs/browser";
 import styles from "./Contact.module.css";
 import WhatsAppButton from "./WhatsAppButton";
 
-function Contact({ style }) {
+function Contact({ stylee }) {
   const [showContact, setShowContact] = useState(false);
   const [inputType, setInputType] = useState("text");
   const form = useRef();
+  console.log(stylee);
+
+  useEffect(() => {
+    if (stylee === "main") {
+      setShowContact(true);
+    }
+  }, [stylee]);
 
   function handleShowContact() {
     setShowContact(!showContact);
@@ -35,13 +42,13 @@ function Contact({ style }) {
   };
 
   useEffect(() => {
-    if (style === "style") {
+    if (stylee === "style") {
       setShowContact(true);
     }
-  }, [style]);
+  }, [stylee]);
 
   return (
-    <div className={style === "style" ? styles.style : styles.container}>
+    <div className={stylee === "style" ? styles.style : styles.container}>
       {!showContact && (
         <button onClick={handleShowContact} className={styles.b}>
           צרו קשר

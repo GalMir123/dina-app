@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import styles from "./Questions.module.css";
 
 export default function Questions() {
