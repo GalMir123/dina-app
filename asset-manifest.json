@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1f84108.css",
-    "main.js": "/static/js/main.114072fe.js",
+    "main.css": "/static/css/main.8773338c.css",
+    "main.js": "/static/js/main.483d83d1.js",
     "static/js/453.f62e4210.chunk.js": "/static/js/453.f62e4210.chunk.js",
     "static/media/dina-img.jpeg": "/static/media/dina-img.c896745c1231c4715abf.jpeg",
     "static/media/dina-salon.jpeg": "/static/media/dina-salon.bf4a645a63de04505720.jpeg",
@@ -9,14 +9,16 @@
     "static/media/first_touch.png": "/static/media/first_touch.c64c01a6447748364ae0.png",
     "static/media/dina-logo.png": "/static/media/dina-logo.154fa5a2d17ab2c95916.png",
     "static/media/recommendation-1.jpg": "/static/media/recommendation-1.c385894a0ed2d28cda87.jpg",
+    "static/media/recommendation-3.jpg": "/static/media/recommendation-3.e94610cd4b3b9d8e7dde.jpg",
+    "static/media/recommendation-2.jpg": "/static/media/recommendation-2.46c98575b0537b70170c.jpg",
     "static/media/WhatsAppIcon.svg": "/static/media/WhatsAppIcon.6181e5cecd1a682846ba3e623621a869.svg",
     "index.html": "/index.html",
-    "main.b1f84108.css.map": "/static/css/main.b1f84108.css.map",
-    "main.114072fe.js.map": "/static/js/main.114072fe.js.map",
+    "main.8773338c.css.map": "/static/css/main.8773338c.css.map",
+    "main.483d83d1.js.map": "/static/js/main.483d83d1.js.map",
     "453.f62e4210.chunk.js.map": "/static/js/453.f62e4210.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1f84108.css",
-    "static/js/main.114072fe.js"
+    "static/css/main.8773338c.css",
+    "static/js/main.483d83d1.js"
   ]
 }
