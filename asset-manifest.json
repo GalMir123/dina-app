@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.8773338c.css",
-    "main.js": "/static/js/main.483d83d1.js",
+    "main.css": "/static/css/main.5331eb5e.css",
+    "main.js": "/static/js/main.7512de07.js",
     "static/js/453.f62e4210.chunk.js": "/static/js/453.f62e4210.chunk.js",
     "static/media/dina-img.jpeg": "/static/media/dina-img.c896745c1231c4715abf.jpeg",
+    "static/media/secondImg.jpeg": "/static/media/secondImg.f1e6c808f738094ad966.jpeg",
+    "static/media/thirdImg.jpeg": "/static/media/thirdImg.05f82059efd26afa7443.jpeg",
     "static/media/dina-salon.jpeg": "/static/media/dina-salon.bf4a645a63de04505720.jpeg",
     "static/media/free-fear.jpeg": "/static/media/free-fear.34df6f696af36d89c90c.jpeg",
     "static/media/first_touch.png": "/static/media/first_touch.c64c01a6447748364ae0.png",
@@ -13,12 +15,12 @@
     "static/media/recommendation-2.jpg": "/static/media/recommendation-2.46c98575b0537b70170c.jpg",
     "static/media/WhatsAppIcon.svg": "/static/media/WhatsAppIcon.6181e5cecd1a682846ba3e623621a869.svg",
     "index.html": "/index.html",
-    "main.8773338c.css.map": "/static/css/main.8773338c.css.map",
-    "main.483d83d1.js.map": "/static/js/main.483d83d1.js.map",
+    "main.5331eb5e.css.map": "/static/css/main.5331eb5e.css.map",
+    "main.7512de07.js.map": "/static/js/main.7512de07.js.map",
     "453.f62e4210.chunk.js.map": "/static/js/453.f62e4210.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8773338c.css",
-    "static/js/main.483d83d1.js"
+    "static/css/main.5331eb5e.css",
+    "static/js/main.7512de07.js"
   ]
 }
